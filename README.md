@@ -73,6 +73,6 @@ Template.layout.onRendered(function() {
 ```
 ### Screenshots
 
-![alt text](https://raw.githubusercontent.com/gm445566/material-travelville/master/readme/screen.jpg)
+![alt text](https://raw.githubusercontent.com/gm445566/material-travelville/master/readme/screen.png)
 
 project reference from [youtube Traversy Media](https://www.youtube.com/watch?v=MaP3vO-vEsg&t=2833s)
