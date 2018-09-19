@@ -1,6 +1,6 @@
 # material-travelville
 
-This project for apply material design to web by using meteor js framework
+This project for apply material design to web by using [meteor](https://www.meteor.com/) js framework
 
 
 ## Setup
