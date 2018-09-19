@@ -3,7 +3,7 @@
 This project for apply material design to web by using [meteor](https://www.meteor.com/) js framework
 
 
-## Setup
+### Setup
  ```
  git clone https://github.com/gm445566/material-travelville.git myapp
 cd myapp
