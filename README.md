@@ -11,7 +11,7 @@ meteor npm install
   ```
 
 ### Initial project starting 
-I use add package by using npm
+I  add package by using npm
 
 - meteor npm i materialize-css --save
 - meteor npm i jquery@3.2.1 --save
