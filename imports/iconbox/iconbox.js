@@ -1,0 +1,1 @@
+import './iconbox.html';
